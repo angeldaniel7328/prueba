@@ -1,3 +1,5 @@
 var texto = 'Hola';
 
-console.log(texto);
+function imprimir(mensaje) {
+    console.log(mensaje)
+}
